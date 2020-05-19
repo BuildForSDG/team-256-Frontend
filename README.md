@@ -1,2 +1,2 @@
 # team-256-Frontend
-This is the froenend master brach
+This is the frontend master brach
