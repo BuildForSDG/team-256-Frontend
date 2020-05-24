@@ -1,0 +1,67 @@
+*
+{
+  margin: auto;
+  padding: 0
+}
+
+{
+  header
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Ffarmingfirst.org%2F2018%2F10%2Fscience-based-smarter-farming-africa-2%2F&psig=AOvVaw2Bhzjz3qATzd3YSEU5rLTH&ust=1590351865283000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIib68royukCFQAAAAAdAAAAABAD);
+  height: auto;
+  background-size: cover;
+  background-position: center;
+}
+
+.main-nav
+{
+  float: right;
+  list-style: none;
+  margin-top: 30px;
+}
+
+.main-nav li
+{
+  display: inline-block;
+}
+
+.main-nav li a
+{
+  color:white
+    text-decoration:none
+    padding: 5px 20px
+    font-family: "Roboto", sans-serif
+    font size: 15px;
+
+}
+
+.main-nav li.active a
+{
+  border: 1px solid white;
+}
+
+.main-nav li a:hover
+{
+  border: 1px solid white;
+}
+
+body
+{
+  font-family: monospace;
+}
+
+.hero
+{
+  position: absolute;
+  width: 1200px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+h1
+{
+  color: white;
+  text-transform: uppercase;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 275px;
+}
